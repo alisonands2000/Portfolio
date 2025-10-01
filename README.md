@@ -5,7 +5,7 @@ This repository contains all the projects that I have done in data analysis. I a
 ### [Python](1_Python)
 1. [Applying Machine Learning Methods to celestial objects](https://alisonands.pythonanywhere.com/)
 2. [Case Study: A data driven investment analysis](1_Python/1_Case-Study-A-data-driven-investment-analysis)
-3. [An Analysis of Berlin Marathon Runners](1_Python/4_berlin_marathon)
+3. [An Analysis of Berlin Marathon Runners](1_Python/2_berlin_marathon)
 4. [WeatherPy](1_Python/6_WeatherPy)
 5. [**Earthquake Visualizations**](https://alisonands.github.io/earthquakes-leaflet/)
 ([repo](Data-Analytics/7-leaflet-challenge))

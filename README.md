@@ -1,5 +1,5 @@
 # Portfolio
-This repository contains all the projects that I have done in data analysis. I am proficient in Python, SQL and Excel and have a strong background in analytical and stastical techniques. This portfolio showcases the projects that I have created and worked on throughout my studies in physics, astronomy, and data analytics, as well as financial applications in the stock market through my internships.
+This repository contains a series of short projects that I have done in data science and analysis. I am proficient in Python, SQL and Excel and have a strong background in analytical and stastical techniques. This portfolio showcases the projects that I have created and worked on throughout my studies in physics, astronomy, and data analytics, as well as financial applications in the stock market through my internships.
 
 ## Table of Contents
 ### [Python](1_Python)
@@ -39,4 +39,4 @@ This repository contains a series of assignments completed as part of a Data Ana
 2. [**Matplotlib Visualization**](Data-Analytics/2-pymaceuticals-matplotlib): Created visualizations using Matplotlib to explore and analyze data from different sources.
 3. [**BeautifulSoup Web Scraping and Data Analysis**](Data-Analytics/5-scraping-mars-data): Conducted web scraping to gather data and performed analysis using BeautifulSoup and Pandas.
 4. [**Database Management**](Data-Analytics/4-climate-analysis-SQLAlchemy): Designed database schemas and performed data engineering tasks using SQL and SQLAlchemy.
-5. [**Dashboard Development**](Data-Analytics/6-belly-button-dataset-dashboard): Built interactive dashboards to explore and visualize data using Flask and Plotly.
+

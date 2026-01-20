@@ -20,10 +20,10 @@ This repository contains a series of short projects that I have done in data sci
 
 ### [Physics and Astronomy](Physics_&_Astronomy)
 This section contains a series of quantative analyses in physics and astrophysics.
-1. [Determining the Orientation of Magnetic Fields in Star Forming Regions](Physics_&_Astronomy/1_Star_forming_regions)
-2. [Fourier analysis using coupled oscillators](Physics_&_Astronomy/2_fourier_Analysis)
-3. [Square Step Potential](Physics_&_Astronomy/3_square_step_potential)
-4. [Asteroid 16 Psyche Light Curve Analysis](Physics_&_Astronomy/4_16-Psyche)
+1. Determining the Orientation of Magnetic Fields in Star Forming Regions
+2. Fourier analysis using coupled oscillators
+3. Square Step Potential
+4. Asteroid 16 Psyche Light Curve Analysis
 
 ### [Data Analytics](Data-Analytics)
 #### Main tools:

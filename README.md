@@ -18,7 +18,7 @@ This repository contains a series of short projects that I have done in data sci
 1. [Kickstarter crowfunding analysis](3_SQL/1_crowdfunding)
 2. [Canada Covid-19 analysis](3_SQL/2_covid)
 
-### [Physics and Astronomy](Physics_&_Astronomy)
+### [Physics and Astronomy](https://github.com/alisonands2000/Physics_and_Astronomy)
 This section contains a series of quantative analyses in physics and astrophysics.
 1. Determining the Orientation of Magnetic Fields in Star Forming Regions
 2. Fourier analysis using coupled oscillators

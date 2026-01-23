@@ -7,8 +7,8 @@ This repository contains a series of short projects that I have done in data sci
 2. [Case Study: A data driven investment analysis](1_Python/1_Case-Study-A-data-driven-investment-analysis)
 3. [An Analysis of Berlin Marathon Runners](1_Python/2_berlin_marathon)
 4. [WeatherPy](1_Python/6_WeatherPy)
-5. [**Earthquake Visualizations**](https://alisonands.github.io/earthquakes-leaflet/)
-([repo](Data-Analytics/7-leaflet-challenge))
+5. [**Earthquake Visualizations**](https://alisonands.github.io/earthquakes/)
+([repo](https://github.com/alisonands/earthquakes))
 6. [Stock Market Analysis](https://github.com/alisonands/Stock-Analysis)
 
 ### [Excel](2_Excel)

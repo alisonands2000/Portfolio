@@ -1,11 +1,13 @@
 # An Analysis of the Berlin Marathon Runners
+A data analysis project in cleaning, analysing, and visualizing data using pandas and panel dashboards.
+
 This dashboard can be accessed by running the following in the terminal:
 ```
 panel serve running_final.py
 ```
 
 ### Main files:
-- [running_final.py]
+- [running_final.py](running_final.py)
 
 ## Summary
 ![Dashboard](dashboard.png)
